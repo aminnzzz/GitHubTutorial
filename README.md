@@ -1,3 +1,3 @@
 # Demo
 
-this is for my own learning
+this is to learn github
